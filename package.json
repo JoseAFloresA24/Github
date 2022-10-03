@@ -7,5 +7,9 @@
     "tests": "playwright test"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "^1.26.1",
+    "prettier": "^2.7.1"
+  }
 }
